@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1620437066 source:c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\timer.cpp
+	"timer.hpp"
+
+1620453950 source:c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\tile.cpp
+	"headers/Tile.hpp"
+	<iostream>
+
+1620449899 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\headers\tile.hpp
+	<iostream>
+	<utility>
+	<list>
+
+1620458227 source:c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\difficulty.cpp
+	<iostream>
+	<string>
+	"headers/difficulty.hpp"
+
+1620445182 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\headers\difficulty.hpp
+	<iostream>
+
+1620439516 source:c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\player.cpp
+	<iostream>
+	<string>
+	"headers/Player.hpp"
+	"headers/Tile.hpp"
+
+1620438857 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\headers\player.hpp
+	<iostream>
+	<string>
+
+1620463392 source:c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\demineurboard.cpp
+	"headers/DemineurBoard.hpp"
+	<iostream>
+	<stack>
+	<tuple>
+	<list>
+	<iterator>
+	<time.h>
+
+1620463383 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\headers\demineurboard.hpp
+	<iostream>
+	<vector>
+	"Difficulty.hpp"
+	"Tile.hpp"
+	<utility>
+	<string>
+
+1620463415 source:c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\main.cpp
+	<iostream>
+	"headers/demineurboard.hpp"
+
+1620446204 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\include.hpp
+	"headers/demineurboard.hpp"
+	"headers/difficulty.hpp"
+	"headers/Player.hpp"
+	"headers/Tile.hpp"
+	"demineurboard.cpp"
+	"difficulty.cpp"
+	"Player.cpp"
+	"Tile.cpp"
+
+1620445586 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\demineurboard.cpp
+	"headers/DemineurBoard.hpp"
+	<iostream>
+	<stack>
+	<tuple>
+	<list>
+
+1620438730 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\difficulty.cpp
+	<iostream>
+	<string>
+	"headers/difficulty.hpp"
+
+1620439516 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\player.cpp
+	<iostream>
+	<string>
+	"headers/Player.hpp"
+	"headers/Tile.hpp"
+
+1620445485 c:\users\chihe\onedrive\bureau\scolaire\ensi\ii 1\semestre 2\projet\v1.01\demineur test 2\tile.cpp
+	"headers/Tile.hpp"
+	<iostream>
+
